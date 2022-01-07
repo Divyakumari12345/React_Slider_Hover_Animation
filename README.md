@@ -1,1 +1,0 @@
-# React_Slider_Hover_Animation
